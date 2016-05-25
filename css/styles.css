@@ -2,14 +2,18 @@
     float: right;
     border: solid;
     background-color: lightgreen;
+    padding: 5px;
+    margin: 10px:
 }
 
 .column {
     width: 300px;
     float: left;
+    margin: 10px;
 }
 
 img {
     float: left;
     border: solid lightgreen;
+    padding: 3px;
 }
