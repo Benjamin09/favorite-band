@@ -1,0 +1,15 @@
+.sidebar {
+    float: right;
+    border: solid;
+    background-color: lightgreen;
+}
+
+.column {
+    width: 300px;
+    float: left;
+}
+
+img {
+    float: left;
+    border: solid lightgreen;
+}
